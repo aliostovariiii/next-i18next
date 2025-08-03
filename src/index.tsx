@@ -7,6 +7,7 @@ export {
 } from 'react-i18next'
 
 export {
+  // dfghfddrgdf
   appWithTranslation,
   globalI18n as i18n,
 } from './appWithTranslation'
